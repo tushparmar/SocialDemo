@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140780519255",
+    "firebase_url": "https://socialdemo-dd387.firebaseio.com",
+    "project_id": "socialdemo-dd387",
+    "storage_bucket": "socialdemo-dd387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140780519255:android:d1125aa88fbac808",
+        "android_client_info": {
+          "package_name": "com.tusharparmar.socialdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140780519255-fb33boqoj0sgbudpj82riiopudtvac2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tusharparmar.socialdemo",
+            "certificate_hash": "74c49c6f70c09135ee592cd7dc0bd92bb5ed9200"
+          }
+        },
+        {
+          "client_id": "140780519255-3kq8cn0osd7s58vpvq4nhshogpddpmh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRR1tE1pddv3bnF2ys2Wt5WB-7yrxKhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140780519255-3kq8cn0osd7s58vpvq4nhshogpddpmh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

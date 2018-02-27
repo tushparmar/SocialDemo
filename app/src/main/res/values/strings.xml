@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialDemo</string>
+    <string name="facebook_application_id" translatable="false">161586487970933</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb161586487970933</string>
+</resources>
